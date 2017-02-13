@@ -1,7 +1,0 @@
-*.class
-*.jar
-*.target/
-.idea
-*.iml
-.settings
-.project

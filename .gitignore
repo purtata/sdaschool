@@ -9,6 +9,8 @@ local.properties
 .settings/
 .loadpath
 .recommenders
+.gitignore
+target/
 
 # Eclipse Core
 .project
