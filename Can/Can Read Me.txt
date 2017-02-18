@@ -1,0 +1,1 @@
+Program odczytuje definicje sygna³ów z pliku oraz porównuje odczyty zawarte w drugim pliku czy s¹ zgodne z definicjami. Wypisuje na ekran odczyty. Polimorfizm, praca z plikami, pocz¹tki

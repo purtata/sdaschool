@@ -1,0 +1,1 @@
+Przegl¹darka bazy danych, Swing i jdbc, maven

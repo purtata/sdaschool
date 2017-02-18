@@ -1,0 +1,2 @@
+program do monitorowania zawartoœci folderu i wysylania lub usuwania plików na dropboxa - zgodnie ze zmianami.
+Wielow¹tkowoœæ, wczytywanie parametrów dostêpowych z pliku, wykorzystanie API DropBoxa, Maven, brak GUI

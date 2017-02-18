@@ -1,0 +1,1 @@
+Symulacja baru w konsoli, polimorfizm, dziedziczenie, pocz¹tki kursu
