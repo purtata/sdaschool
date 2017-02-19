@@ -1,0 +1,1 @@
+Lucky numbers generator - spring beginigs, dep. injection, diffrent configs etc, Maven
