@@ -3,6 +3,8 @@ package factory;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.Profile;
+import org.springframework.stereotype.Component;
 
 import car.Car;
 import car.Lodgy;
@@ -10,6 +12,8 @@ import resources.Color;
 import resources.Level;
 import resources.Type;
 
+@Component
+@Profile("lodgy")
 public class LodgyFactory implements Factory{
 
 	@Autowired

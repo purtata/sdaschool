@@ -22,6 +22,7 @@ public class Main {
         factory.produce(1);
         factory.setType(Type.STEPWAY);
         factory.produce(2);
+        factory.setColor(Color.BLACK);
         factory.setType(Type.VAN);
         factory.setLevel(Level.LAUREATE);
         factory.produce(2);
