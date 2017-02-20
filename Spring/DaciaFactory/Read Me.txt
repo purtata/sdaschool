@@ -1,0 +1,1 @@
+Dacia Factory simulator - spring beginigs, dep. injection, diffrent config changes model, etc, Maven
