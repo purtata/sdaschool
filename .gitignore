@@ -11,6 +11,9 @@ local.properties
 .recommenders
 .gitignore
 target/
+*.iml
+.idea/
+
 
 # Eclipse Core
 .project
