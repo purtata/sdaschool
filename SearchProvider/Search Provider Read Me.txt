@@ -1,0 +1,1 @@
+Wyszukiwarka linków - zwraca zadan¹ liczbê linków w postaci listy stringów, u¿ywa wyszukiwarki google i wyniki parsuje do jsona. 2 warianty - jeden z u¿yciem Google Custom Search - wymaga dostêpów pobieranych z pliku - dostêpy generuje siê na stronach googla. Drugi na podstawie mat. znalezionych w sieci - nie wymaga ¿adnych dostêpów.
